@@ -1,4 +1,4 @@
-# 📊 CodeAlpha Data Analytics Internship – Task 2: Exploratory Data Analysis (EDA)
+# 📊 CodeAlpha Data Analytics Internship – Task 1: Exploratory Data Analysis (EDA)
 
 ## 📌 Objective
 Conducted Exploratory Data Analysis (EDA) on the Superstore Sales dataset to uncover business insights related to sales, profit, discounts, categories, regions, and time-based trends.
